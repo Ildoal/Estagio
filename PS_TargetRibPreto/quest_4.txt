@@ -1,0 +1,25 @@
+Carro:
+
+50 km = 110 km/h x t1
+
+tcarro = 50 km / 110 km/h
+
+tcarro = 0,45 horas
+
+Caminhão:
+
+50 km = 80 km/h x t2
+
+tcaminhao = 50 km / 80 km/h
+
+tcaminhao = 0,625 horas
+
+Tempo caminhão
+
+t2_total = t2 + 0,1667 horas
+
+t2_total = 0,625 horas + 0,1667 horas
+
+t2_total = 0,7927 horas
+
+Resposta: O carro estará mais próximo de Ribeirão.
